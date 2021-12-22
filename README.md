@@ -1,0 +1,2 @@
+# sphere_NeuroNets_automn2021
+tehnosphere neuronets automn2021
